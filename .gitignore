@@ -1,0 +1,17 @@
+.idea
+.gradle
+frontend
+account-service/build
+account-service/.gradle
+bill-service/build
+bill-service/.gradle
+config-service/build
+config-service/.gradle
+deposit-service/build
+deposit-service/.gradle
+gateway/build
+gateway/.gradle
+notification-service/build
+notification-service/.gradle
+registry/build
+registry/.gradle
