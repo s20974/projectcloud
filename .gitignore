@@ -15,3 +15,5 @@ notification-service/build
 notification-service/.gradle
 registry/build
 registry/.gradle
+
+notification-service/src/main/resourcesmail-props.properties
